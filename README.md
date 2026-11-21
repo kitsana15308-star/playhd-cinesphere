@@ -1,2 +1,0 @@
-# playhd-cinesphere
-Movie Streaming
